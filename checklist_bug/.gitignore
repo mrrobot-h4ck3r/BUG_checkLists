@@ -1,0 +1,12 @@
+# Ignore configuration files
+includes/config.php
+
+# Ignore database files
+*.sql
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
